@@ -1,5 +1,4 @@
 # BASHING
----
 
 Just a random collection of scripts trying things out.
 
